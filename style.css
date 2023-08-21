@@ -1,0 +1,26 @@
+.carrusel{
+  height: 600px;
+  padding: 2px;
+  margin-bottom: 10px;
+  margin: 0 0 1em; 
+
+}
+.location {
+  margin-top: 40px;
+  margin-bottom: 30px;
+  justify-content: center;
+}
+
+.map {
+    margin-top: 25px;
+    margin-bottom: 25px;
+   
+ }
+
+ footer{
+    text-align: center;
+    background: url(https://cdn.pixabay.com/photo/2014/09/24/16/28/bricks-459299_1280.jpg) ; 
+    padding: 40px;
+    margin-top: 4px;
+    
+}
